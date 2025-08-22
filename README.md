@@ -1,2 +1,2 @@
 # Skin-Cancer-Detection-Model
-My FYP project 
+My Final year project of analyzing stages of skin cancer an detect it uing AI
